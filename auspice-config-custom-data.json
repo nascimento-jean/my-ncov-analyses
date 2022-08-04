@@ -1,0 +1,12 @@
+{
+  "colorings": [
+    {
+      "key": "custom_data",
+      "title": "Custom data",
+      "type": "categorical"
+    }
+  ],
+  "display_defaults": {
+    "color_by": "custom_data"
+  }
+}
